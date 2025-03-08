@@ -1,3 +1,7 @@
+---
+title: |
+  Figma Мастер класс
+---
 ### Start
 1. Открыть инкогнито
 2. Открыть https://www.figma.com/
