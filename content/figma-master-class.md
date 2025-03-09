@@ -14,4 +14,5 @@ title: |
 ### Links
 - [Figma presentation](https://www.figma.com/design/BniBiBaeByFkLVzK3v2GoK/Figma-Course?node-id=13-8&t=0eymTFaVjnqRwQZz-1)
 - [Telegram group](https://t.me/+-19tQXV43ZE2ZDU6)
-![[frame (1).png]]
+
+![[qr-code.svg|200]]
