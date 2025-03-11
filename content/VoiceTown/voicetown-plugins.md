@@ -1,5 +1,5 @@
 ---
-"": Плагины
+title: Плагины
 ---
 # Quality of Life
 AutoTorch [NEW]
