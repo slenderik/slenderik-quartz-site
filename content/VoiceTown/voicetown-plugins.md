@@ -16,7 +16,6 @@ SimpleDeathChest + Waypoints [NEW]
 [InteractiveChat - Minecraft Plugin](https://modrinth.com/plugin/interactivechat/versions) [NEW]
 [Player's Head Drop - Minecraft Plugin](https://modrinth.com/plugin/head-drop/versions)[New]
 
-
 GSit
 
 # Server general
