@@ -1,17 +1,21 @@
 ---
 title: Мастер класс
 ---
-### Start
+## Start
 1. Открыть инкогнито
 2. Открыть https://www.figma.com/
 3. Зарегистрироваться или войти в аккаунт
 
 https://www.figma.com/design/n8ndM3sASSDi5fqXCzqPOo/Untitled?node-id=0-1&t=Yk40F5cSmU0QZRk6-1
-### Plugins
+## Plugins
+### Как установить плагин?
+ Перейти по ссылке и нажать на флажок. Если появляется всплывающие окно - нажмите черную кнопку.
+![[Pasted image 20250314214011.png]]
+### Плагины для установки
 1. [Unsplash](https://www.figma.com/community/plugin/738454987945972471/unsplash)
 2. [Background remover](https://www.figma.com/community/plugin/997643096679511216/icons8-background-remover)
 
-### Links
+## Links
 - [Figma presentation](https://www.figma.com/design/BniBiBaeByFkLVzK3v2GoK/Figma-Course?node-id=13-8&t=0eymTFaVjnqRwQZz-1)
 - [Telegram group](https://t.me/+-19tQXV43ZE2ZDU6)
 
