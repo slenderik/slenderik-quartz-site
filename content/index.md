@@ -1,3 +1,3 @@
 ---
-title: "@slenderik"
+title: slenderik
 ---
