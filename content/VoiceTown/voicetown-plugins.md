@@ -1,5 +1,6 @@
 ---
 title: Плагины
+draft: "true"
 ---
 # Может быть добавлено
 - [EmoteCraft](https://modrinth.com/plugin/emotecraft)
