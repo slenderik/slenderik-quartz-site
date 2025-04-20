@@ -1,8 +1,6 @@
 ---
 title: Идеи для плакатов
 ---
-
-
 ## Где взять идею?
 1. Использовать ТЗ от нейронки [Get Unique Design Briefs](https://goodbrief.io/)
 2. Если нужно попросить что-то более конкретное [Perplexity](https://www.perplexity.ai/)
