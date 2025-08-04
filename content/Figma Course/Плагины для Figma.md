@@ -1,5 +1,6 @@
 ---
 title: figma-plugins
+drafts: "true"
 ---
 # Текст
 [Погнуть текст](https://www.figma.com/community/plugin/1331748701210388011/curve-text)

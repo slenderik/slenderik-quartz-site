@@ -1,1 +1,0 @@
-https://www.figma.com/team_invite/redeem/ZeYs20wsx3NLCIwrymytkJ
